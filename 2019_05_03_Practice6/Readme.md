@@ -2,7 +2,7 @@
 
 > 1.c
 
-<img width ="600px" src="https://user-images.githubusercontent.com/13483945/56635556-091a5800-66a1-11e9-85d8-1768ffc226fe.PNG" >
+<img width ="600px" src="https://user-images.githubusercontent.com/13483945/57428471-85956500-7263-11e9-9d40-4b65c9ccdc6e.PNG" >
 
 
 
@@ -10,20 +10,20 @@
 
 > 2.c
 
-<img width="600px" src="https://user-images.githubusercontent.com/13483945/56635573-17687400-66a1-11e9-957b-ea4bbd73ee39.PNG" >
+<img width="600px" src="https://user-images.githubusercontent.com/13483945/57428482-8e863680-7263-11e9-8997-818671d87ffa.PNG" >
 
 
 
 > 3.c
 
-<img width="600px" src="https://user-images.githubusercontent.com/13483945/56635589-218a7280-66a1-11e9-8090-dd7dbbd78d28.PNG" >
+<img width="600px" src="https://user-images.githubusercontent.com/13483945/57428489-96de7180-7263-11e9-8383-0eb9117bbc74.PNG" >
 
 
-<img width="600px" src="https://user-images.githubusercontent.com/13483945/56635621-31a25200-66a1-11e9-85f7-eeaf9f3c802e.PNG" >
+<img width="600px" src="https://user-images.githubusercontent.com/13483945/57428504-a8c01480-7263-11e9-9cb2-993a9beae042.PNG" >
 
 
 
 
 # COMMENT
 
-6주차에 휴강하여 5번째 실습은 7주차 수업이 되었다. 
+8주차에 중간고사를 봐서 6번째 실습은 9주차 수업이 되었다. 
