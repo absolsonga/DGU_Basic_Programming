@@ -1,31 +1,20 @@
-# Week 9
+# Week 10
 
 > 1.c
 
-<img width ="600px" src="https://user-images.githubusercontent.com/13483945/57428471-85956500-7263-11e9-9d40-4b65c9ccdc6e.PNG" >
-
-
+<img width ="600px" src="https://user-images.githubusercontent.com/13483945/57998445-87d1ac00-7b0c-11e9-88ab-ff8c375d1924.PNG" >
 
 
 
 > 2.c
 
-<img width="600px" src="https://user-images.githubusercontent.com/13483945/57428482-8e863680-7263-11e9-8997-818671d87ffa.PNG" >
+<img width ="600px" src="https://user-images.githubusercontent.com/13483945/57998448-9029e700-7b0c-11e9-9580-4a59ac8ed917.PNG" >
 
 
-
-> 3.c
-
-<img width="600px" src="https://user-images.githubusercontent.com/13483945/57428489-96de7180-7263-11e9-8383-0eb9117bbc74.PNG" >
-
-
-<img width="600px" src="https://user-images.githubusercontent.com/13483945/57428504-a8c01480-7263-11e9-9cb2-993a9beae042.PNG" >
 
 
 
 
 # COMMENT
 
-8주차에 중간고사를 봐서 6번째 실습은 9주차 수업이 되었다. 
-
-이번 실습에서는 파일 입출력을 이용하여 콘솔로 출력된 정답을 C 드라이브 경로의 TXT 파일로 저장하였다.
+10주차 7번째 실습에서는 전 시간에 실습했던 팩토리얼을 이용해 조합을 계산하고, 행렬곱도 계산해보았다.
