@@ -1,31 +1,15 @@
-# Week 9
+# Week 12
 
 > 1.c
 
-<img width ="600px" src="https://user-images.githubusercontent.com/13483945/57428471-85956500-7263-11e9-9d40-4b65c9ccdc6e.PNG" >
+<img width ="600px" src="https://user-images.githubusercontent.com/13483945/58744612-14228e00-8480-11e9-8880-b9d0ecd609db.PNG" >
 
+<img width="600px" src="https://user-images.githubusercontent.com/13483945/58744617-1dabf600-8480-11e9-82b7-23c1dcade553.PNG" >
 
-
-
-
-> 2.c
-
-<img width="600px" src="https://user-images.githubusercontent.com/13483945/57428482-8e863680-7263-11e9-8997-818671d87ffa.PNG" >
-
-
-
-> 3.c
-
-<img width="600px" src="https://user-images.githubusercontent.com/13483945/57428489-96de7180-7263-11e9-8383-0eb9117bbc74.PNG" >
-
-
-<img width="600px" src="https://user-images.githubusercontent.com/13483945/57428504-a8c01480-7263-11e9-9cb2-993a9beae042.PNG" >
 
 
 
 
 # COMMENT
 
-8주차에 중간고사를 봐서 6번째 실습은 9주차 수업이 되었다. 
-
-이번 실습에서는 파일 입출력을 이용하여 콘솔로 출력된 정답을 C 드라이브 경로의 TXT 파일로 저장하였다.
+11주차 수업에서는 카프리카 불변수를 구하는 프로그램을 작성하였다.
